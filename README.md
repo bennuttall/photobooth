@@ -2,6 +2,8 @@
 
 Tweeting Pi camera photobooth
 
+![](images/oliver.jpg)
+
 ## Hardware
 
 - Raspberry Pi display
